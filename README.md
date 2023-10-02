@@ -1,2 +1,2 @@
-# Tarea_6_Repositorio
-Tarea No.6 (Simulación Matemática)
+# Tarea_%_Repositorio
+Tarea No.5 (Simulación Matemática)
